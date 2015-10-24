@@ -3,7 +3,13 @@
 ## Biochemistry and visual pigments of bioluminescent fishes
 \label{sec:biochem_and_foobs}
 
-The fundamental workings behind bioluminescence involve wavelengths of light that organisms can perceive in relationship to their environment. Fish retinas contain visual pigments that are specific to absorbing a maximum wavelength of light (Hasegawa et al. 2008). In addition to visual pigments, neurotransmitters are necessary for the control of luminescence from the light organs (Krӧnstrӧm and Mallefet 2010). The literature reviewed in this section covers the fascinating range of wavelengths produced and perceived by bioluminescent species, as well as the biochemical control of bioluminescence.
+The fundamental workings behind bioluminescence involve wavelengths of light
+ that organisms can perceive in relationship to their environment. Fish
+ retinas contain visual pigments that are specific to absorbing a maximum
+ wavelength of light (Hasegawa et al. 2008). In addition to visual pigments,
+ neurotransmitters are necessary for the control of luminescence from the
+ light organs (Krӧnstrӧm and Mallefet 2010). The literature reviewed in this
+ section covers the fascinating range of wavelengths produced and perceived by bioluminescent species, as well as the biochemical control of bioluminescence.
 
 A study conducted in the Musician’s Seamount region of the Pacific Ocean north of Hawaii investigated the visual pigments of Myctophid fish of the mesopelagic zone (Turner et al. 2009). The premise of the study was based on the light attenuation properties of water with increasing depth; as sunlight penetration decreases with depth, there is a narrow waveband of light available in the 470 nm to 490 nm zone (Turner et al. 2009). With this narrow waveband of light available, bioluminescence becomes an increasingly important selective pressure for mesopelagic fishes to maximize sensitivity to the available light. This means that in some mesopelagic leignathid fish, their visual pigments will have pigment absorption maxima that most closely resemble that of their ambient environment (Turner et al. 2009). The objective of this study was to characterize the visual pigment absorption maxima of myctophid fish, and a total of 40 species in the Myctophidae family was sampled. All species sampled exhibited absorption maxima in the range of 480 nm to 522 nm, with 522 nm being long-wave oriented for possible detection of dragonfish predators (Turner et al. 2009). This article was extremely thorough with explanations of why various fish species can detect certain wavelengths. It would have been valuable for more explanation or discussion as to why 3 species of the Myctophinae had a paired rhodopsin/porphyropsin system. 
 
@@ -66,5 +72,81 @@ Based on knowledge of sexual dimorphisms in the light-organ system (LOS) of leig
 
 Without a doubt, extensive research on the mechanisms and integral components of bioluminescence shows that this phenomenon has not only species-specific roles but also multifarious ecological roles across species. Knowledge on the fundamental morphology of photophores and the role of neurotransmitters in producing light are fascinating and should serve as a solid foundation for future research on the obscured mechanisms of how some fish can change the wavelength of emitted light. In addition, the symbiotic relationships that leiognathid fish and other marine teleosts have formed with luminescent bacteria demonstrate the diversity and evolutionary history of bioluminescence. Recent literature suggests bioluminescence plays a vital role in mesopelagic fishes with respect to mating, evading predators, and prey capture mechanisms; as more research is conducted, hopefully more insight can be evolved as to how different fish species produce light and how bacterial symbioses developed.
 
+References
 
-![some fish](images/figures/Fish1.png)
+Claes, J., D. Aksnes, and J. Mallefet. 2010. Phantom hunter of the fjords:
+ Camouflage by counter illumination in a shark (Etmopterus spinax).
+ Journal of Experimental Marine Biology and Ecology 388: 28-32.
+
+Claes, J. and J. Mallefet. 2008. Early development of bioluminescence
+ suggests camouflage by counter-illumination in the velvet belly lantern
+ shark (Etmopterus spinax) (Squaloidea: Etmopteridae). Journal of Fish Biology
+ 73: 1337-1350.
+
+Claes, J., K. Sato, and J. Mallefet. 2011. Morphology and control of
+ photogenic structures in a rare dwarf pelagic lantern shark
+ (Etmopterus splendidus). Journal of Experimental Marine Biology
+ and Ecology 406: 1-5. 
+
+Dunlap, P., J. Ast, S. Kimura, A. Fukui, T. Yoshino, and H. Endo. 2007.
+ Phylogenetic analysis of host-symbiont specificity and codivergence in
+ bioluminescent symbioses. Cladistics 23: 507-532. 
+
+Dunlap, P., K. Davis, S. Tomiyama, M. Fujino, and A. Fukui. 2008.
+ Developmental and microbiological analysis of the inception of bioluminescent
+ symbiosis in the marine fish Nuchequula nuchalis (Perciformes: Leignathidae).
+ Applied and Environmental Microbiology 74 (24):7471-7481.
+
+Hasegawa, E.I., K. Sawada, and K. Abe. 2008. The visual pigments of a deep-sea
+ myctophid fish Myctophum nitidulum Garman: an HPLC and spectroscopic
+ description of a non-paired rhodopsin-porphyropsin system. Journal of Fish
+ Biology 72: 937-945.
+
+Herring, P. and C. Cope. 2005. Red bioluminescence in fishes: on the suborbital
+ photophores of Malacosteus, Pachystomias, and Aristostomias. Marine Biology
+ 148: 383-394.
+
+Ikejima, K., M. Wada, K. Kita-Tsukamoto, T. Yamamoto, and N. Azuma. 2008.
+ Synchronized development of gonad and bioluminescent light organ in a highly
+ sexually dimorphic leiognathid fish, Photoplagios rivulatus. Marine Biology
+ 153: 1009-1014.
+
+Krönström, J., and J. Mallefet. 2009. Evidence for a widespread involvement
+ of NO in control of photogenesis in bioluminescent fish. Acta Zoologica
+ (Stockholm) 91: 474-483.
+
+Mensinger, A., and J. Case. 1997. Luminescent properties of fishes from
+ nearshore California basins. Journal of Experimental Marine Biology and
+ Ecology 210: 75-90.
+
+Renwart, M., and J. Mallefet. 2013. First study of the chemistry of the
+ luminous system in a deep-sea shark, Etmopterus spinax Linnaeus, 1758
+ (Chondrichthyes: Etmopteridae). Journal of Experimental Marine Biology
+ and Ecology 448: 214-219.
+
+Straube, N., S.P. Iglésias, D.Y. Sellos, J. Kriwet, and U.K. Schliewen. 2010.
+ Molecular phylogeny and node time estimation of bioluminescent lantern sharks
+ (Elasmobranchii: Etmopteridae). Molecular Phylogenetics and Evolution
+ 56: 905-917.
+
+Thacker, C.E., and D.M. Roje. 2009. Phylogeny of cardinalfishes (Teleostei:
+ Gobiiformes: Apogonidae) and the evolution of visceral bioluminescence.
+ Molecular Phylogenetics and Evolution 52: 735-745.
+
+Turner, J.R., E.M. White, M.A. Collins, J.C. Partridge, and R.H. Douglas.
+ 2009. Vision in lanternfish (Myctophidae): Adaptations for viewing
+ bioluminescence in the deep-sea. Deep-Sea Research I 56: 1003-1017.
+
+Urbanczyk, H., N. Kiwaki, T. Furukawa, and Y. Iwatsuki. 2012. Limited
+ geographic distribution of certain strains of the bioluminescent symbiont
+ Photobacterium leiognathi. Federation of European Microbiological Societies
+ Microbiology Ecology 81: 355-363.
+
+Wada, M., A. Kamiya, N. Uchiyama, S. Yoshizawa, K. Kita-Tsukamoto, K. Ikejima,
+ R. Yu, C. Imada, H. Karatani, N. Mizuno, Y. Suzuki, M. Nishida, and K. Kogure.
+ 2006. LuxA gene of light organ symbionts of the bioluminescent fish Acropoma
+ japonicum (Acropomatidae) and Siphamia versicolor (Apogonidae) forms a
+ lineage closely related to that of Photobacterium leiognathi spp. mandapamensis.
+ Federation of European Microbiological Societies 260: 186-192.
+
+![Luminous pattern of Etmopterus splendidus.(A) Lateral (top) and ventral (bottom) view of an adult specimen showing a typical pelagic habitus with a cylindrical morphology and the lateral luminous markings, which support its affiliation to “Etmopterus pusillus” clade. (B) Spontaneous luminescence of a freshly caught specimen (top) and description of the different photogenic zones composing the luminous pattern (bottom). Red and white arrows on top indicate bright luminescence and non-luminous caudal dark band (CDB), respectively. Photogenic zones shown in same color have similar photophore density (PD). nl, not luminous. Scale bars: 2 cm. (Claes et al. 2011).\label{fig:fish}](images/figures/Fish1.png)
