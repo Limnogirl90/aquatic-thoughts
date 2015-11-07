@@ -4,5 +4,5 @@ maketitle
 tableofcontents
 abstract.md
 introduction.md
-body.md
 mainmatter:
+body.md
