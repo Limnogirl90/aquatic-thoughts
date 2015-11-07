@@ -1,6 +1,5 @@
 # Introduction
 
-\label{sec:Introduction}
 Bioluminescence has been studied on mesopelagic fish in several different
 families of fish, from lantern sharks (Etmopteridae) of the Squaliformes to
 members of Myctophidae. A plethora of research exists with respect to the

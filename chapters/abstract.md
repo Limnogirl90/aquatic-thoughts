@@ -1,5 +1,4 @@
 # Abstract
-\label{cha:Abstract}
 
 Present in over 460 marine fish species, bioluminescence is a multifaceted
  phenomenon that is adaptive for species that rely on camouflage to evade
