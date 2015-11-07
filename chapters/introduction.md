@@ -18,4 +18,3 @@ of wavelengths in the environment and those produced by luminescing fishes;
  research dealing with luminescent bacterial symbioses in fish; and 4) review
  the literature dealing with adaptive, evolutionary, and phylogenetic
  significance of bioluminescence. 
-

@@ -149,4 +149,12 @@ Wada, M., A. Kamiya, N. Uchiyama, S. Yoshizawa, K. Kita-Tsukamoto, K. Ikejima,
  lineage closely related to that of Photobacterium leiognathi spp. mandapamensis.
  Federation of European Microbiological Societies 260: 186-192.
 
-![Luminous pattern of Etmopterus splendidus.(A) Lateral (top) and ventral (bottom) view of an adult specimen showing a typical pelagic habitus with a cylindrical morphology and the lateral luminous markings, which support its affiliation to “Etmopterus pusillus” clade. (B) Spontaneous luminescence of a freshly caught specimen (top) and description of the different photogenic zones composing the luminous pattern (bottom). Red and white arrows on top indicate bright luminescence and non-luminous caudal dark band (CDB), respectively. Photogenic zones shown in same color have similar photophore density (PD). nl, not luminous. Scale bars: 2 cm. (Claes et al. 2011).\label{fig:fish}](images/figures/Fish1.png)
+![Luminous pattern of Etmopterus splendidus.(A) Lateral (top) and ventral
+(bottom) view of an adult specimen showing a typical pelagic habitus with a
+cylindrical morphology and the lateral luminous markings, which support its
+affiliation to “Etmopterus pusillus” clade. (B) Spontaneous luminescence of a
+freshly caught specimen (top) and description of the different photogenic zones
+composing the luminous pattern (bottom). Red and white arrows on top indicate
+bright luminescence and non-luminous caudal dark band (CDB), respectively.
+Photogenic zones shown in same color have similar photophore density (PD). nl,
+not luminous. Scale bars: 2 cm. (Claes et al. 2011).\label{fig:fish}](images/figures/Fish1.png)
